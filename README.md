@@ -1,7 +1,7 @@
 ﻿Daniel15
 ========
 
-This is the code that powers [my personal website](https://dan.cx/) and blog. It uses C# and the ASP.NET Core MVC framework, with some older bits in PHP.
+This is the code that powers [my personal website](https://narasimhan.me/) and blog. It uses C# and the ASP.NET Core MVC framework, with some older bits in PHP.
 
 The live site is currently running on .NET Core 2.0
 
