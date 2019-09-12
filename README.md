@@ -1,4 +1,4 @@
-﻿Daniel15
+﻿Narasimhan.me
 ========
 
 This is the code that powers [my personal website](https://narasimhan.me/) and blog. It uses C# and the ASP.NET Core MVC framework, with some older bits in PHP.
